@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GEEK2931
 - 👀 I’m interested in pentester
-- 🌱 I’m currently learning iot embedded system & Programming
+- 🌱 I’m currently learning iot embedded system And Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Cheikh2931@gmail.com
 
